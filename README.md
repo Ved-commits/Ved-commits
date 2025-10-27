@@ -19,7 +19,7 @@
 **Version Control:** Git, GitHub 
 
 ### 🌐 Connect With Me  
-📫 **Email:** vedantvaradai@gmail.com  
+📫 **Email:** veduvmv@gmail.com  
 💼 **LinkedIn:**  https://www.linkedin.com/in/vedant-m-varadai-
 🧩 **LeetCode:**  https://leetcode.com/u/Vedant_V20/
 🐦 **Instagram:** https://www.instagram.com/vedant_varadai?igsh=MTczMGUzdTcxZmRkcA==
