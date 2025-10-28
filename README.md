@@ -14,7 +14,7 @@
 - ### 🛠️ Tech Stack  
 **Languages:** Python, C, Java, SQL 
 **AI/ML Tools:** TensorFlow, Scikit-learn, OpenCV, NumPy, Pandas  
-**Data Tools:** Power BI, Tableau, Excel  
+**Data Tools:** Power BI, Tableau, Excel, Docker 
 **Web & App Dev:** HTML, CSS, JavaScript, Flask, Streamlit  
 **Version Control:** Git, GitHub 
 
